@@ -1,0 +1,9 @@
+[submodule "Utilities/PolyPacket"]
+	path = Utilities/PolyPacket
+	url = https://bitbucket.org/uprev/utility-polypacket.git
+[submodule "Utilities/JSON"]
+	path = Utilities/JSON
+	url = https://jasonBerger@bitbucket.org/uprev/utility-json.git
+[submodule "Utilities/COBS"]
+	path = Utilities/COBS
+	url = https://bitbucket.org/uprev/utility-cobs.git
